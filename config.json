@@ -1,0 +1,32 @@
+{
+  "origin": "SCL",
+  "destinations": ["YYC", "YEG"],
+
+  "trips": [
+    { "depart": "2027-01-15", "return": "2027-02-05" }
+  ],
+
+  "max_stops": 1,
+  "currency": "USD",
+  "adults": 1,
+
+  "checked_bags": 1,
+  "bag_fee_per_bag_each_way": {
+    "default": 60,
+    "Air Canada": 60,
+    "LATAM": 60,
+    "United": 60,
+    "American": 60,
+    "Delta": 60,
+    "Copa": 60,
+    "SKY Airline": 60,
+    "JetSMART": 60
+  },
+
+  "target_price": null,
+  "min_history": 7,
+  "percentile": 15,
+  "drop_vs_median": 0.10,
+  "use_google_level": true,
+  "alert_cooldown_days": 3
+}
