@@ -271,6 +271,40 @@
    "dest": "YEG",
    "depart": "2027-01-15",
    "ret": "2027-02-05"
+  },
+  {
+   "price": 1504.0,
+   "base_price": 1384.0,
+   "bag_fee": 120.0,
+   "stops": 1,
+   "airlines": "Delta, WestJet",
+   "via": "ATL",
+   "duration_min": 1035,
+   "level": "typical",
+   "tlow": 720,
+   "thigh": 1650,
+   "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAxLTE1KAFqBwgBEgNTQ0xyBwgBEgNZWUMaIBIKMjAyNy0wMi0wNSgBagcIARIDWVlDcgcIARIDU0NMQAFIAXABmAEB&tfu=EgIIAQ",
+   "ts": "2026-11-24T22:10:32+00:00",
+   "dest": "YYC",
+   "depart": "2027-01-15",
+   "ret": "2027-02-05"
+  },
+  {
+   "price": 1966.0,
+   "base_price": 1846.0,
+   "bag_fee": 120.0,
+   "stops": 1,
+   "airlines": "Air Canada",
+   "via": "YUL",
+   "duration_min": 1834,
+   "level": "typical",
+   "tlow": 780,
+   "thigh": 2000,
+   "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAxLTE1KAFqBwgBEgNTQ0xyBwgBEgNZRUcaIBIKMjAyNy0wMi0wNSgBagcIARIDWUVHcgcIARIDU0NMQAFIAXABmAEB&tfu=EgIIAQ",
+   "ts": "2026-11-24T22:10:37+00:00",
+   "dest": "YEG",
+   "depart": "2027-01-15",
+   "ret": "2027-02-05"
   }
  ],
  "alerts": [
@@ -278,9 +312,14 @@
    "ts": "2026-11-23T23:39:18+00:00",
    "key": "YYC|2027-01-15|2027-02-05",
    "price": 1250.0
+  },
+  {
+   "ts": "2026-11-24T22:10:37+00:00",
+   "key": "YEG|2027-01-15|2027-02-05",
+   "price": 1966.0
   }
  ],
- "updated": "2026-11-23T23:39:34+00:00",
+ "updated": "2026-11-24T22:10:39+00:00",
  "origin": "SCL",
  "currency": "USD",
  "checked_bags": 1,
