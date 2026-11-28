@@ -407,6 +407,40 @@
    "dest": "YEG",
    "depart": "2027-01-15",
    "ret": "2027-02-05"
+  },
+  {
+   "price": 1375.0,
+   "base_price": 1255.0,
+   "bag_fee": 120.0,
+   "stops": 1,
+   "airlines": "United",
+   "via": "IAH",
+   "duration_min": 1098,
+   "level": "typical",
+   "tlow": 720,
+   "thigh": 1650,
+   "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAxLTE1KAFqBwgBEgNTQ0xyBwgBEgNZWUMaIBIKMjAyNy0wMi0wNSgBagcIARIDWVlDcgcIARIDU0NMQAFIAXABmAEB&tfu=EgIIAQ",
+   "ts": "2026-11-28T19:46:20+00:00",
+   "dest": "YYC",
+   "depart": "2027-01-15",
+   "ret": "2027-02-05"
+  },
+  {
+   "price": 2187.0,
+   "base_price": 2067.0,
+   "bag_fee": 120.0,
+   "stops": 1,
+   "airlines": "Air Canada",
+   "via": "YUL",
+   "duration_min": 1834,
+   "level": "high",
+   "tlow": 780,
+   "thigh": 2000,
+   "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAxLTE1KAFqBwgBEgNTQ0xyBwgBEgNZRUcaIBIKMjAyNy0wMi0wNSgBagcIARIDWUVHcgcIARIDU0NMQAFIAXABmAEB&tfu=EgIIAQ",
+   "ts": "2026-11-28T19:46:32+00:00",
+   "dest": "YEG",
+   "depart": "2027-01-15",
+   "ret": "2027-02-05"
   }
  ],
  "alerts": [
@@ -421,7 +455,7 @@
    "price": 1966.0
   }
  ],
- "updated": "2026-11-27T20:56:06+00:00",
+ "updated": "2026-11-28T19:46:34+00:00",
  "origin": "SCL",
  "currency": "USD",
  "checked_bags": 1,
